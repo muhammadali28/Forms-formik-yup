@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.border{
+  border-radius: 1px;
+  border-width: 3px;
+  border-color: black;
+}
