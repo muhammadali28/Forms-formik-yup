@@ -1,10 +1,9 @@
 import './App.css';
 import Formikform from './formikForm';
-
 function App() {
   return (
     <div className="App">
-      <Formikform/>
+      <Formikform />
     </div>
   );
 }
